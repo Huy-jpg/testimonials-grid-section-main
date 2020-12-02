@@ -1,0 +1,5 @@
+version: 2
+main:
+  type: static
+  path: https://huy-jpg.github.io/Profile_Card
+  spa: false
